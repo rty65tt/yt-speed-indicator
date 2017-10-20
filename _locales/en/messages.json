@@ -1,0 +1,10 @@
+{
+   "appName": {
+      "description": "The app name",
+      "message": "Youtube Playback Speed Indicator"
+   },
+   "appDescription": {
+      "description": "The app description",
+      "message": "Add playback speed indicator on Youtube video."
+   }
+}

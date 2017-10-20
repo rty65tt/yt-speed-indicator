@@ -1,0 +1,10 @@
+{
+   "appName": {
+      "description": "The app name",
+      "message": "Скорость видео YouTube"
+   },
+   "appDescription": {
+      "description": "The app description",
+      "message": "Показывает слева вверху скорость воспроизведение видео YouTube."
+   }
+}
