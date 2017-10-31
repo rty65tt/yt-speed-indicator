@@ -1,6 +1,6 @@
 {
    "manifest_version": 2,
-   "version": "1.0",
+   "version": "1.1",
    "default_locale": "en",
    "name": "__MSG_appName__",
    "short_name": "youtubespeedindicator",
@@ -12,7 +12,7 @@
    },
 
    "content_scripts": [ {
-      "matches": [ "*://*.youtube.com/*" ],
+      "matches": [ "*://*.youtube.com/embed/*", "*://*.youtube.com/watch*" ],
       "all_frames": true,
       "css": [ "css/inject.css" ],
       "js": [ "inject.js" ]

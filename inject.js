@@ -24,6 +24,3 @@ if (! p.paused ) {
     p.pause();
     p.play();
 }
-
-
-
